@@ -103,7 +103,41 @@ This project demonstrates experience with:
 - Secure Backend Architecture
 - Responsive Mobile UI
 - Remote Data Management
+---
 
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="Screenshot_20260903_114359.png" width="230">
+  &nbsp;&nbsp;
+  <img src="Screenshot_20260903_114411.png" width="230">
+  &nbsp;&nbsp;
+  <img src="Screenshot_20260903_114438.png" width="230">
+</p>
+
+<p align="center">
+  <b>Dashboard</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Services</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>AI Assistant</b>
+</p>
+
+<p align="center">
+  <img src="Screenshot_20260903_114500.png" width="230">
+  &nbsp;&nbsp;
+  <img src="Screenshot_20260903_114513.png" width="230">
+  &nbsp;&nbsp;
+  <img src="Screenshot_20260903_114527.png" width="230">
+</p>
+
+<p align="center">
+  <b>Government Schemes</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Scheme Categories</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Document Assistance</b>
+</p>
 ---
 
 ## 👨‍💻 Developer
